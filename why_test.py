@@ -1,5 +1,5 @@
 """
-WHY - GitHub  Script
+WHY - GitHub Script
 
 This script is for experimenting with:
 - GitHub pull requests and workflow
@@ -19,12 +19,12 @@ def test_pull_request():
 def test_copilot_integration():
     """Test Copilot integration - TST."""
     result = True  # Replace with real test logic
-    assert result, "Copilot integration failed"
+    assert result, "Copilot integration failS"
 
 def test_general_experimentation():
     """Test general experimentation."""
     result = True  # Replace with real test logic
-    assert result, "General experimentation failed"
+    assert result, "General experimentation failS"
 
 def main():
     print("WHY Repository: GitHub Features Testing\n")
